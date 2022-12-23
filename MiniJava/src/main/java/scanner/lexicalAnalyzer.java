@@ -8,9 +8,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class lexicalAnalyzer {
-
     private Matcher matcher;
-
 
     public lexicalAnalyzer(java.util.Scanner sc) {
         StringBuilder input = new StringBuilder();
@@ -34,7 +32,7 @@ public class lexicalAnalyzer {
                         break;
 
                     }
-                    if(matcher.group(Type.ErrorID.name())!=null){
+                    if (matcher.group(Type.ErrorID.name()) != null) {
                         ErrorHandler.printError("The id must start with character");
                         break;
                     }
@@ -43,6 +41,6 @@ public class lexicalAnalyzer {
                 }
             }
         }
-        return new Token(Type.EOF,"$");
+        return new Token(Type.EOF, "$");
     }
 }

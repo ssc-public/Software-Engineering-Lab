@@ -1,6 +1,5 @@
 package semantic.symbol;
 
-
 import codeGenerator.Address;
 import codeGenerator.Memory;
 import codeGenerator.TypeAddress;
@@ -53,10 +52,10 @@ public class SymbolTable {
 
     public void addMethodLocalVariable(String className, String methodName, String localVariableName) {
 //        try {
-            if (klasses.get(className).Methodes.get(methodName).localVariable.containsKey(localVariableName)) {
-                ErrorHandler.printError("This variable already defined");
-            }
-            klasses.get(className).Methodes.get(methodName).localVariable.put(localVariableName, new Symbol(lastType, mem.getDateAddress()));
+        if (klasses.get(className).Methodes.get(methodName).localVariable.containsKey(localVariableName)) {
+            ErrorHandler.printError("This variable already defined");
+        }
+        klasses.get(className).Methodes.get(methodName).localVariable.put(localVariableName, new Symbol(lastType, mem.getDateAddress()));
 //        }catch (NullPointerException e){
 //            e.printStackTrace();
 //        }
@@ -70,9 +69,9 @@ public class SymbolTable {
         return keyWords.get(keywordName);
     }
 
-    public Symbol get(String fieldName,String className) {
+    public Symbol get(String fieldName, String className) {
 //        try {
-            return klasses.get(className).getField(fieldName);
+        return klasses.get(className).getField(fieldName);
 //        }catch (NullPointerException n)
 //        {
 //            n.printStackTrace();
@@ -82,8 +81,7 @@ public class SymbolTable {
 
     public Symbol get(String className, String methodName, String variable) {
         Symbol res = klasses.get(className).Methodes.get(methodName).getVariable(variable);
-        if (res == null)
-            res = get(variable, className);
+        if (res == null) res = get(variable, className);
         return res;
     }
 
@@ -91,9 +89,9 @@ public class SymbolTable {
         return klasses.get(className).Methodes.get(methodName).getNextParameter();
     }
 
-    public void startCall(String className,String methodName) {
+    public void startCall(String className, String methodName) {
 //        try {
-            klasses.get(className).Methodes.get(methodName).reset();
+        klasses.get(className).Methodes.get(methodName).reset();
 //        }catch (NullPointerException n)
 //        {
 //            n.printStackTrace();
@@ -110,7 +108,7 @@ public class SymbolTable {
 
     public SymbolType getMethodReturnType(String className, String methodName) {
 //        try {
-            return klasses.get(className).Methodes.get(methodName).returnType;
+        return klasses.get(className).Methodes.get(methodName).returnType;
 //        }catch (NullPointerException ed){
 //            ed.printStackTrace();
 //            return null;
@@ -164,10 +162,8 @@ public class SymbolTable {
         }
 
         public Symbol getVariable(String variableName) {
-            if (parameters.containsKey(variableName))
-                return parameters.get(variableName);
-            if (localVariable.containsKey(variableName))
-                return localVariable.get(variableName);
+            if (parameters.containsKey(variableName)) return parameters.get(variableName);
+            if (localVariable.containsKey(variableName)) return localVariable.get(variableName);
             return null;
         }
 
