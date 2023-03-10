@@ -14,9 +14,9 @@
 - JUnit
 - Cucumber
 ## منابع آموزشی
-- فیلم ارسالی با عنوان BDD.mp4
-- مستند با عنوان Example.pdf حاوی مثالی از نحوه به‌کارگیری BDD
-- کتاب BDD In Action.pdf برای مطالعه بیش‌تر علاقه‌مندان
+- [فیلم آموزشی](https://aparat.com/v/JbrTx)
+- [مثالی از نحوه‌ی به‌کار‌گیری BDD](https://github.com/ssc-public/Software-Engineering-Lab/raw/main/resources/BDD/Example.pdf)
+- [کتاب BDD in Action برای مطالعه علاقه‌مندان](https://github.com/ssc-public/Software-Engineering-Lab/raw/main/resources/BDD/BDD%20in%20Action.pdf)
 
 ## روال انجام آزمایش
 1. مستند Example.pdf حاوی مثالی از نحوه به‌کارگیری BDD در محیط IntelliJ است. مستند را به دقت مطالعه کنید و مراحل آن را به ‌صورت عملی انجام دهید. 
