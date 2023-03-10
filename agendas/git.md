@@ -12,7 +12,7 @@
 گیت (ترجیحا نسخه ۲.۲ به بعد)
 
 ## منابع آموزشی
-- [فیلم آموزشی گیت](https://aparat.com/v/POj9h)
+- [فیلم آموزشی](https://aparat.com/v/POj9h)
 - [برگه‌ی تقلب دستورات پرکاربرد گیت](https://education.github.com/git-cheat-sheet-education.pdf)
 - [چگونگی نام‌گذاری commit](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
 
