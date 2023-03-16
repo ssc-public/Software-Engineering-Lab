@@ -69,7 +69,7 @@
 
 خطوط زیر به عنوان سناریوی جمع در این فایل نوشته می‌شوند:
 
-```Java
+```feature
 @tag
 Feature: Calculator 
 
@@ -81,7 +81,7 @@ Scenario: add two numbers
 
 ![image](https://user-images.githubusercontent.com/45389673/225749456-a417a55b-51f5-4ca4-8bf6-5fd56ef3a461.png)
 
-زبان نوشتن featureها Gherkin است که باید توسط cucumber ترجمه و اجرا شود. با ذخیره فایل، برخی از خطوط به رنگ زرد درمی­آیند زیرا مشخص نیست باید چطور تفسیر شوند. برای حل این مشکل، به انتهای هر یک از خطوط Given، When و Then رفته و کلید Alt+Enter را می­زنیم تا یک فایل جهت تعیین مراحل و stepهای اجرای سناریو ایجاد شود. قبل از این کار یک دایرکتوری با نام calculator در مسیر test->java ایجاد می­کنیم تا در آن ساخته شود:
+زبان نوشتن featureها Gherkin است که باید توسط cucumber ترجمه و اجرا شود. با ذخیره فایل، برخی از خطوط به رنگ زرد درمی‌آیند زیرا مشخص نیست باید چطور تفسیر شوند. برای حل این مشکل، به انتهای هر یک از خطوط Given، When و Then رفته و کلید Alt+Enter را می‌زنیم تا یک فایل جهت تعیین مراحل و stepهای اجرای سناریو ایجاد شود. قبل از این کار یک دایرکتوری با نام calculator در مسیر test->java ایجاد می‌کنیم تا در آن ساخته شود:
 
 ![image](https://user-images.githubusercontent.com/45389673/225749563-bc285281-dce7-435c-a861-ffbab050c313.png)
 
@@ -151,7 +151,7 @@ public class MyStepdefs {
 }
 ```
 
-با ذخیره این فایل، برخی فایل­های پروژه به error compile برمی­خورند؛ زیرا Calculator هنوز تعریف نشده است. این کلاس باید پس از ایجاد دایرکتوری calculator، در مسیر زیر ساخته شود:
+با ذخیره این فایل، برخی فایل‌های پروژه به error compile برمی‌خورند؛ زیرا Calculator هنوز تعریف نشده است. این کلاس باید پس از ایجاد دایرکتوری calculator، در مسیر زیر ساخته شود:
  src->main->java->calculator 
 
 ![image](https://user-images.githubusercontent.com/45389673/225749879-c3f79d5a-e6ca-4b65-b008-05afb314452e.png)
@@ -166,7 +166,7 @@ public class Calculator {
 }
 ```
 
-9. زدن گزینه Maven test که در این صورت به ERROR برمی­خوریم:
+9. زدن گزینه Maven test که در این صورت به ERROR برمی‌خوریم:
 
 ![image](https://user-images.githubusercontent.com/45389673/225749942-a0d97027-9a88-4e53-b4b6-e749e0f8b543.png)
 
@@ -181,44 +181,45 @@ public class Calculator {
 
 ![image](https://user-images.githubusercontent.com/45389673/225750098-99b3ec84-9deb-4880-97d3-66af555d913f.png)
 
-مجدداً Maven test را می­زنیم تا این بار SUCCESS شود:
+مجدداً Maven test را می‌زنیم تا این بار SUCCESS شود:
 
 ![image](https://user-images.githubusercontent.com/45389673/225750121-daa01716-49b2-4288-b66d-a79e0af4714f.png)
 
 
-10. بر روی فایل calculator.feature کلیک راست کرده و گزینه Run را انتخاب می­کنیم تا سناریوی این feature اجرا شود:
+10. بر روی فایل calculator.feature کلیک راست کرده و گزینه Run را انتخاب می‌کنیم تا سناریوی این feature اجرا شود:
 
 ![image](https://user-images.githubusercontent.com/45389673/225750151-33ae11e3-03d9-4567-8cc8-1272afbdcd5a.png)
 
-نتیجه اجرا باید به­صورت زیر باشد که نشان می­دهد یک سناریو با موفقیت تست شده است:
+نتیجه اجرا باید به‌صورت زیر باشد که نشان می‌دهد یک سناریو با موفقیت تست شده است:
 
 ![image](https://user-images.githubusercontent.com/45389673/225750184-3cc0cc14-9657-498a-b213-36893c750d6c.png)
 
 
-11. برای مشاهده جزئیات اجرا از طریق JUnit به این صورت عمل می­کنیم که یک کلاس جدید به نام RunnerTest.java در مسیر test->java->calculator (کنار فایل MyStepdefs) ایجاد می­نماییم و بدنه آن را به­صورت زیر پر می­کنیم که بالای سر امضای متد، عبارت زیر را قرار می­دهیم:
+11. برای مشاهده جزئیات اجرا از طریق JUnit به این صورت عمل می‌کنیم که یک کلاس جدید به نام RunnerTest.java در مسیر test->java->calculator (کنار فایل MyStepdefs) ایجاد می‌نماییم و بدنه آن را به‌صورت زیر پر می‌کنیم که بالای سر امضای متد، عبارت زیر را قرار می‌دهیم:
 ```Java
 @RunWith(Cucumber.class)
 ```
 ![image](https://user-images.githubusercontent.com/45389673/225750264-353eaa03-004f-4244-9d0a-76d6be5e09a4.png)
 
-با زدن فلش سبزرنگ کنار نام کلاس، این فایل اجرا می­شود ولی این بار به یک خطای جدید برمی­خورد:
+با زدن فلش سبزرنگ کنار نام کلاس، این فایل اجرا می‌شود ولی این بار به یک خطای جدید برمی‌خورد:
 
 ![image](https://user-images.githubusercontent.com/45389673/225750283-3d0855d4-083f-494c-98c9-8b4d3a198129.png)
 
 ![image](https://user-images.githubusercontent.com/45389673/225750308-a7bacfed-acfd-45c1-968f-8aa377014db6.png)
 
-این خطا نشان می­دهد که فایل feature را نمی­تواند پیدا کند. برای رفع آن باید مسیر این فایل را در ابتدای کلاس RunnerTest با کمک @CucumberOptions مشخص کنیم:
+این خطا نشان می‌دهد که فایل feature را نمی‌تواند پیدا کند. برای رفع آن باید مسیر این فایل را در ابتدای کلاس RunnerTest با کمک @CucumberOptions مشخص کنیم:
+
 ```Java
 @CucumberOptions(features = "src/test/resources/features")
 ```
 
 ![image](https://user-images.githubusercontent.com/45389673/225750413-c3167441-2c23-495d-8921-9f371352f291.png)
 
-12. با اجرای مجدد RunnerTest، خروجی به صورت زیر نمایش داده می­شود:
+12. با اجرای مجدد RunnerTest، خروجی به صورت زیر نمایش داده می‌شود:
 
 ![image](https://user-images.githubusercontent.com/45389673/225750463-6bf024d9-9eff-464a-9221-db7e881e3797.png)
 
-13. با تغییر مقادیر فایل feature و اعداد می­توان نتیجه تست را مشاهده کرد:
+13. با تغییر مقادیر فایل feature و اعداد می‌توان نتیجه تست را مشاهده کرد:
 
 ![image](https://user-images.githubusercontent.com/45389673/225750556-23940da2-a489-48d3-9f9e-3814db173759.png)
 
@@ -226,7 +227,7 @@ public class Calculator {
 
 حال نوبت به تعریف نوع دیگری از سناریو به نام scenario outline است که آن را در ادامه فایل feature به صورت زیر تعریف می‌کنیم:
 
-```
+```feature
 Scenario Outline: add two numbers
     Given Two input values, <first> and <second>
     When I add the two values
@@ -239,11 +240,4 @@ Scenario Outline: add two numbers
     | 2     | 2      | 4	    |
 ```
 
-حال RunnerTest را دوباره اجرا می­کنیم. این بار برخی تست­ها به مشکل undefined برمی­خورند. این موارد تست کدامند؟ علت بروز مشکل چیست؟ 
-
-
-
-
-
-
-
+حال RunnerTest را دوباره اجرا می‌کنیم. این بار برخی تست‌ها به مشکل undefined برمی‌خورند. این موارد تست کدامند؟ علت بروز مشکل چیست؟
