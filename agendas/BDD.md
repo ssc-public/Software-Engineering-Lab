@@ -15,7 +15,7 @@
 - Cucumber
 ## منابع آموزشی
 - [فیلم آموزشی](https://aparat.com/v/JbrTx)
-- [مثالی از نحوه‌ی به‌کار‌گیری BDD](https://github.com/ssc-public/Software-Engineering-Lab/raw/main/resources/BDD/Example.pdf)
+- [مثالی از نحوه‌ی به‌کار‌گیری BDD](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/resources/BDD/BDD-example.md)
 - [کتاب BDD in Action برای مطالعه علاقه‌مندان](https://github.com/ssc-public/Software-Engineering-Lab/raw/main/resources/BDD/BDD%20in%20Action.pdf)
 
 ## روال انجام آزمایش
