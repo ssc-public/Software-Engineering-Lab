@@ -18,6 +18,7 @@
 - [اسلاید آشنایی با TDD](https://github.com/ssc-public/Software-Engineering-Lab/raw/main/resources/SOLID/An-Introduction-To-TDD.pptx)
 - [راه‌اندازی JUnit در پروژه](https://www.jetbrains.com/help/idea/junit.html)
 - [داستان ارث‌بری مربع و مستطیل](https://softwareengineering.stackexchange.com/questions/238176/why-would-square-inheriting-from-rectangle-be-problematic-if-we-override-the-set)
+- [راه‌اندازی JUnit در پروژه](https://www.jetbrains.com/help/idea/junit.html)
 
 ## نکات انجام آزمایش
 برای انجام آزمایش، علاوه بر رعایت نکات مطرح‌شده در فیلم، باید به روش Test Driven Development یا TDD هم عمل کنید؛ یعنی:
