@@ -24,7 +24,8 @@
 - یک مورد [State/Strategy](https://refactoring.guru/replace-conditional-with-polymorphism) یا [استفاده از Polymorphism به جای شرط](https://refactoring.guru/replace-conditional-with-polymorphism) 
 - یک مورد [Separate Query From Modifier](https://refactoring.guru/separate-query-from-modifier)
 - سه مورد از سایر بازآرایی‌ها مانند [Self Encapsulated Field](https://refactoring.guru/self-encapsulate-field) یا …
-    - بازآرایی‌های ساده مانند تغییر نام متغیرها، تغییر نوع خصیصه‌های یک کلاس (برای مثال از private به final) یا پاک‌کردن کدهای کامنت‌شده محسوب نمی‌شود.
+    - در [اینجا](https://refactoring.guru/refactoring/techniques) می‌توانید لیستی از تمام بازآرایی‌های موجود را ببینید.
+    - بازآرایی‌های خیلی ساده مانند تغییر نام متغیرها، تغییر نوع خصیصه‌های یک کلاس (برای مثال از private به final) یا پاک‌کردن کدهای کامنت‌شده، حساب نیست.
 
 در commit های مرتبط با هر بازآرایی، نام آن بازآرایی را هم بیاورید.
 
