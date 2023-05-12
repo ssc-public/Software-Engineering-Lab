@@ -8,12 +8,14 @@
 حداقل یک نفر از اعضای هر گروه باید دارای یک حساب کاربری در github باشد.
 ابزارهای مورد استفاده
 یک Java IDE مانند IntelliJ IDEA و یا Eclipse به همراه jdk حداقل نسخه ۸
-منابع آموزشی
-فیلم ارسالی با عنوان Refactoring.mp4
-وب‌سایت https://getcodeflow.com
-وب‌سایت https://refactoring.guru
-پروژه MiniJava
-روال انجام آزمایش
+
+## منابع آموزشی
+- [فیلم آموزشی](https://aparat.com/v/0r5yH)
+- وب‌سایت https://getcodeflow.com
+- وب‌سایت https://refactoring.guru
+- پروژه MiniJava
+
+## روال انجام آزمایش
 در این آزمایش قرار است تا هفت مورد بازآرایی بر روی این پروژه انجام دهید:
 سه مورد Facade
 چند مورد State or Strategy
