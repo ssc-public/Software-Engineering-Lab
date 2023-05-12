@@ -16,7 +16,7 @@
 ## منابع آموزشی
 - [فیلم آموزشی](https://aparat.com/v/LZ7WS)
 - [اسلاید آشنایی با TDD](https://github.com/ssc-public/Software-Engineering-Lab/raw/main/resources/SOLID/An-Introduction-To-TDD.pptx)
-- [وب‌سایت refactoring.guru](https://refactoring.guru/design-patterns)
+- [سایت refactoring.guru](https://refactoring.guru)
 - [راه‌اندازی JUnit در پروژه](https://www.jetbrains.com/help/idea/junit.html)
 
 ## نکات انجام آزمایش
