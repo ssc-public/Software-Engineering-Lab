@@ -16,6 +16,7 @@
 - ابزار Manage Engine ServiceDesk Plus (SDP)
 
 ## منابع آموزشی
+- [آشنایی با ITIL](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/resources/ITIL.md)
 - [وب‌سایت معرفی محصولات ManageEngine](https://www.manageengine.com/products.html)
 - [وب‌سایت ManageEngine Application Manager](https://www.manageengine.com/products/applications_manager/help)
 - [وب‌سایت Manage Engine ServiceDesk Plus (SDP)](https://www.manageengine.com/products/service-desk)
@@ -24,4 +25,4 @@
 مشابه ابزارهایی که در کلاس برای ITIL معرفی می‌شوند، ابزار دیگری را معرفی و امکانات آن را به صورت کامل همراه با تصاویر در قالب یک گزارش مستند نمایید.
 
 ## نحوه ارسال پروژه:
-گزارش خود را در قالب یک متن جذاب در [ویرگول](https://virgool.io/) بنویسید و لینک آن را در سامانه‌ی cw بارگذاری کنید.
+فایل wprd و pdf گزارش خود را در سامانه‌ی cw بارگذاری کنید.
