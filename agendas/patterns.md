@@ -1,6 +1,6 @@
 به نام خدا
 
-# کاربرد عملی الگوهای طراحی شئ‌گرای Abstract Factory و Prototype با استفاده از روش Test Driven Development
+# کاربرد عملی الگوهای طراحی شئ‌گرا با استفاده از روش TDD
 
 ## اهداف
 - آشنایی کلی دانشجویان با مفهوم الگو در مهندسی نرم افزار و به طور خاص، الگوهای طراحی شئ‌گرا
@@ -16,7 +16,7 @@
 ## منابع آموزشی
 - [فیلم آموزشی](https://aparat.com/v/LZ7WS)
 - [اسلاید آشنایی با TDD](https://github.com/ssc-public/Software-Engineering-Lab/raw/main/resources/SOLID/An-Introduction-To-TDD.pptx)
-- [وب‌سایت refactoring.guru](https://refactoring.guru/design-patterns)
+- [سایت refactoring.guru](https://refactoring.guru)
 - [راه‌اندازی JUnit در پروژه](https://www.jetbrains.com/help/idea/junit.html)
 
 ## نکات انجام آزمایش
@@ -38,7 +38,7 @@
 1. در کتاب GoF سه دسته الگوی طراحی معرفی شده است. آن‌ها را نام ببرید و در مورد هر دسته در حد دو خط توضیح دهید.
 2. سه الگوی استفاده شده در این آزمایش جزو کدام دسته هستند؟
 3. فرق اصلی پنج اصل SOLID با الگوهای طراحی مطرح‌شده در GoF چیست؟
-4. الگوی طراحی Singleton کدام یک از اصول SOLID را نقض می‌کند؟
+4. آیا الگوی طراحی Singleton موردی از اصول SOLID را نقض می‌کند؟ توضیح دهید.
 
 ## نحوه ارسال پروژه:
 آدرس مخزن پروژه خود را ارسال کنید. توجه کنید که این مخزن عمومی (public) باشد. هم‌چنین اطلاعات اعضای تیم شامل نام و شماره دانشجویی را داخل فایل README ذکر کنید.
