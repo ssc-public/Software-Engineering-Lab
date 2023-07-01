@@ -15,20 +15,12 @@
 
 ## منابع آموزشی
 - [فیلم آموزشی](https://aparat.com/v/NUPoJ)
-- [اسلاید آشنایی با TDD](https://github.com/ssc-public/Software-Engineering-Lab/raw/main/resources/SOLID/An-Introduction-To-TDD.pptx)
-- [راه‌اندازی JUnit در پروژه](https://www.jetbrains.com/help/idea/junit.html)
+- [آشنایی با TDD](https://github.com/ssc-public/Software-Engineering-Lab/tree/main/resources/TDD)
 - [داستان ارث‌بری مربع و مستطیل](https://softwareengineering.stackexchange.com/questions/238176/why-would-square-inheriting-from-rectangle-be-problematic-if-we-override-the-set)
-- [راه‌اندازی JUnit در پروژه](https://www.jetbrains.com/help/idea/junit.html)
-
-## نکات انجام آزمایش
-برای انجام آزمایش، علاوه بر رعایت نکات مطرح‌شده در فیلم، باید به روش Test Driven Development یا TDD هم عمل کنید؛ یعنی:
-- گام اول: انتظارات برنامه را به صورت تست (با استفاده از کتابخانه‌ی JUnit) بنویسید.
-- گام دوم: تست‌ها را کامپایل کرده و ایرادهای آن را شناسایی کنید.
-- گام سوم: با اضافه کردن کد در برنامه اصلی، اشکالات کامپایلری تست‌ها را برطرف نمایید.
-- گام چهارم: تست‌ها را اجرا کنید تا اشکالات زمان اجرا مشخص گردد.
-- گام پنجم: با تغییر کد در برنامه اصلی، اشکالات زمان اجرای تست‌ها را رفع نمایید.
 
 ## شرح آزمایش
+برای انجام آزمایش، علاوه بر رعایت نکات مطرح‌شده در فیلم، باید به [روش Test Driven Development یا TDD](https://github.com/ssc-public/Software-Engineering-Lab/tree/main/resources/TDD) هم عمل کنید. گام‌های انجام آزمایش به شرح زیر هستند:
+
 - پروژه‌ای به زبان Java بنویسید که با داشتن طول (height) و عرض (width) یک مستطیل (Rectangle)، مساحت آن را محاسبه کند (متد computeArea)
 - برنامه‌ی قبل را به گونه‌ای گسترش دهید که امکان تغییر طول و عرض مستطیل وجود داشته باشد (متدهای set و get).
 - برنامه قبلی را به گونه‌ای گسترش دهید که علاوه بر مستطیل، مربع را هم پوشش دهد.
