@@ -8,5 +8,6 @@
 4. گام چهارم: تست‌ها را اجرا کنید تا اشکالات زمان اجرا مشخص گردد.
 5. گام پنجم: با تغییر کد در برنامه اصلی، اشکالات زمان اجرای تست‌ها را رفع نمایید.
 
-## لینک‌های مرتبط
+## منابع مرتبط
+- [اسلاید آشنایی با TDD](https://github.com/ssc-public/Software-Engineering-Lab/raw/main/resources/TDD/An-Introduction-To-TDD.pptx)
 - [راه‌اندازی JUnit در پروژه](https://www.jetbrains.com/help/idea/junit.html)
