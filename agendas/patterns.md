@@ -15,19 +15,12 @@
 
 ## منابع آموزشی
 - [فیلم آموزشی](https://aparat.com/v/LZ7WS)
-- [اسلاید آشنایی با TDD](https://github.com/ssc-public/Software-Engineering-Lab/raw/main/resources/SOLID/An-Introduction-To-TDD.pptx)
+- [آشنایی با TDD](https://github.com/ssc-public/Software-Engineering-Lab/tree/main/resources/TDD)
 - [سایت refactoring.guru](https://refactoring.guru)
-- [راه‌اندازی JUnit در پروژه](https://www.jetbrains.com/help/idea/junit.html)
-
-## نکات انجام آزمایش
-لازم است در تمامی مراحل آزمایش، اصول و قواعد توضیح داده شده در فیلم آموزشی را رعایت نمایید. هم‌چنین برای انجام این آزمایش باید به روش Test Driven Development  یا TDD عمل کنید؛ یعنی:
-- گام اول: انتظارات برنامه را به صورت تست (با استفاده از کتابخانه‌ی JUnit) بنویسید.
-- گام دوم: تست‌ها را کامپایل کرده و ایرادهای آن را شناسایی کنید.
-- گام سوم: با اضافه کردن کد در برنامه اصلی، اشکالات کامپایلری تست‌ها را برطرف نمایید.
-- گام چهارم: تست‌ها را اجرا کنید تا اشکالات زمان اجرا مشخص گردد.
-- گام پنجم: با تغییر کد در برنامه اصلی، اشکالات زمان اجرای تست‌ها را رفع نمایید.
 
 ## شرح آزمایش
+لازم است در تمامی مراحل آزمایش، اصول و قواعد توضیح داده شده در فیلم آموزشی را رعایت نمایید. هم‌چنین برای انجام این آزمایش باید به [روش Test Driven Development یا TDD](https://github.com/ssc-public/Software-Engineering-Lab/tree/main/resources/TDD) عمل کنید. گام‌های انجام آزمایش به شرح زیر هستند:
+
 - پیاده‌سازی الگوی Abstract Factory  به شرح ارائه شده در فیلم آموزشی 
 - پیاده‌سازی الگوی Prototype در یک مثال دلخواه
 - پیاده‌سازی الگوی Builder در یک مثال دلخواه
