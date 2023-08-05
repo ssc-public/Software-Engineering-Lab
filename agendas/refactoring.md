@@ -1,6 +1,6 @@
 به نام خدا
 
-# بازآرایی کد (Refactoring)
+# بازآرایی کد (Code Refactoring)
 
 اهداف 
 آشنایی با الگوها و ابزارهای بازآرایی کد با هدف افزایش خوانایی و کارایی آن از طریق تغییر در ساختار برنامه بدون اینکه رفتار خارجی آن تغییر کند.
@@ -21,7 +21,7 @@
 ## روال انجام آزمایش
 در این آزمایش قرار است تا هفت مورد بازآرایی بر روی این پروژه انجام دهید:
 - دو مورد اعمال الگوی [Facade](https://refactoring.guru/design-patterns/facade)
-- یک مورد [State/Strategy](https://refactoring.guru/replace-conditional-with-polymorphism) یا [استفاده از Polymorphism به جای شرط](https://refactoring.guru/replace-conditional-with-polymorphism) 
+- یک مورد [State/Strategy](https://refactoring.guru/replace-type-code-with-state-strategy) یا [استفاده از Polymorphism به جای شرط](https://refactoring.guru/replace-conditional-with-polymorphism) 
 - یک مورد [Separate Query From Modifier](https://refactoring.guru/separate-query-from-modifier)
 - سه مورد از سایر بازآرایی‌ها مانند [Self Encapsulated Field](https://refactoring.guru/self-encapsulate-field) یا …
     - در [اینجا](https://refactoring.guru/refactoring/techniques) می‌توانید لیستی از تمام بازآرایی‌های موجود را ببینید.
@@ -37,7 +37,7 @@
 1. هر یک از مفاهیم زیر را در حد یک خط توضیح دهید.
     - کد تمیز
     - بدهی فنی
-    - بوی بد (!)
+    - بوی بد
 2. طبق دسته‌بندی وب‌سایت [refactoring.guru](https://refactoring.guru/refactoring/smells)، بوهای بد کد به پنج دسته تقسیم می‌شوند. در مورد هر کدام از این پنج دسته توضیح مختصری دهید.
 3. یکی از انواع بوهای بد، Lazy Class است.
     - این بوی بد در کدام یک از دسته‌بندی‌های پنج‌گانه قرار می‌گیرد؟
