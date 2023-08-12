@@ -13,7 +13,7 @@
 
 ## منابع آموزشی
 - [فیلم آموزشی](https://aparat.com/v/0r5yH)
-- [سایت getcodeflow.com](https://getcodeflow.com)
+- سایت [getcodeflow.com](https://getcodeflow.com) یا [codeac.io](https://www.codeac.io/)
 - [سایت refactoring.guru](https://refactoring.guru)
 - [سایت sourcemaking.com](https://sourcemaking.com/)
 - [پروژه MiniJava](https://github.com/ssc-public/Software-Engineering-Lab/tree/main/resources/projects/MiniJava)
@@ -23,7 +23,7 @@
 - دو مورد اعمال الگوی [Facade](https://refactoring.guru/design-patterns/facade)
 - یک مورد [State/Strategy](https://refactoring.guru/replace-type-code-with-state-strategy) یا [استفاده از Polymorphism به جای شرط](https://refactoring.guru/replace-conditional-with-polymorphism) 
 - یک مورد [Separate Query From Modifier](https://refactoring.guru/separate-query-from-modifier)
-- سه مورد از سایر بازآرایی‌ها مانند [Self Encapsulated Field](https://refactoring.guru/self-encapsulate-field) یا …
+- سه مورد مختلف از سایر بازآرایی‌ها مانند [Self Encapsulated Field](https://refactoring.guru/self-encapsulate-field) یا ... (غیر از بازآرایی‌های مطرح‌شده در موارد بالا)
     - در [اینجا](https://refactoring.guru/refactoring/techniques) می‌توانید لیستی از تمام بازآرایی‌های موجود را ببینید.
     - بازآرایی‌های خیلی ساده مانند تغییر نام متغیرها، تغییر نوع خصیصه‌های یک کلاس (برای مثال از private به final) یا پاک‌کردن کدهای کامنت‌شده، حساب نیست.
 
