@@ -16,7 +16,8 @@
 
 ## منابع آموزشی
 - [فیلم آموزشی](https://aparat.com/v/FQubj)
-- [سایت آشنایی با معماری Microservice](https://microservices.io/) 
+- [سایت آشنایی با معماری Microservice](https://microservices.io/)
+- [کتاب یادگیری Domain-driven Design](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/resources/docker/Learning%20Domain-Driven%20Design%20Aligning%20Software%20Architecture%20and%20Business%20Strategy%20by%20Vladik%20Khononov.pdf)
 
 ## روال انجام آزمایش
 یک RESTful API را در نظر بگیرید که یک عملیات CRUD ساده را ارائه می‌دهد، یک پایگاه‌داده‌ی مشترک دارد و از قابلیت load balancing پشتیبانی می‌کند. این سامانه را با معماری Microservice ایجاد و به وسیله‌ی Docker مستقر کنید. لازم است در تمامی مراحل آزمایش، اصول و قواعد توضیح داده شده در فیلم آموزشی را رعایت نمایید. علاوه بر آن به نکات زیر نیز توجه کنید:
