@@ -33,7 +33,7 @@
 1. پوشه‌ی .git چیست؟ چه اطلاعاتی در آن ذخیره می‌شود؟ با چه دستوری ساخته می‌شود؟
 2. منظور از atomic بودن در atomic commit و atomic pull-request چیست؟
 3. تفاوت دستورهای fetch و pull و merge و rebase را بیان کنید.
-4. تفاوت چهار دستور reset و revert و restore را بیان کنید.
+4. تفاوت دستورهای reset و revert و restore را بیان کنید.
 5. منظور از stage چیست؟ دستور stash چه کاری را انجام می‌دهد؟
 6. مفهوم snapshot به چه معناست؟
 
