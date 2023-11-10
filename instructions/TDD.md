@@ -17,6 +17,7 @@
 - [اسلاید آشنایی با TDD](https://github.com/ssc-public/Software-Engineering-Lab/raw/main/resources/TDD/An-Introduction-To-TDD.pptx)
 - [راه‌اندازی JUnit در پروژه](https://www.jetbrains.com/help/idea/junit.html)
 - [داستان ارث‌بری مربع و مستطیل](https://softwareengineering.stackexchange.com/questions/238176/why-would-square-inheriting-from-rectangle-be-problematic-if-we-override-the-set)
+- [الگوی Arrange-Act-Assert برای سامان‌دهی ساختار یک Unit Test](https://java-design-patterns.com/patterns/arrange-act-assert/)
 - [مدل شایستگی مهندسی نرم‌افزار در حوزه‌ی آزمون](https://docs.google.com/spreadsheets/d/1MeBzWbmPpv4FWnpn1GmzHOLP8Sl4F2d11Zb_rYz9HVo/edit?usp=sharing)
 
 ## مفاهیم
@@ -47,7 +48,7 @@
 پاسخ پرسش‌های زیر را داخل فایل README پروژه بنویسید:
 1. در چرخه‌ی عمومی ایجاد نرم‌افزار، آزمون نرم‌افزار بعد از پیاده‌سازی نرم‌افزار انجام می‌شود، اما در روش TDD ابتدا unit test ها و سپس کد برنامه را می‌نویسیم. آیا این دو مورد با هم تناقضی دارند؟ در دو-سه خط توضیح دهید.
 2. آزمون‌های واحد ریزدانه هستند. با بیان مثال، طیف آزمون‌ها بر اساس ریزدانگی یا درشت‌دانگی (granularity) را توضیح دهید.
-3. آیا همه‌ی انواع آزمون‌های نرم‌افزار را برنامه‌نویسان ایجاد می‌کنند؟
+3. آیا همه‌ی انواع آزمون‌های نرم‌افزار را برنامه‌نویسان به‌وجود می‌آورند؟
 4. اصول SOLID در کدام یک از گام‌های اصلی ایجاد نرم‌افزار (تحلیل نیازمندی‌ها، طراحی، پیاده‌سازی، آزمون و استقرار) استفاده می‌شوند؟ توضیح دهید.
 5. فرض کنید در آزمایش بالا نیازی به تغییر ابعاد مستطیل نداشتیم. آیا در این حالت می‌توانستیم مربع را از مستطیل به ارث ببریم؟ توضیح دهید.
 
