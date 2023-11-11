@@ -7,7 +7,8 @@
 - تمرین اصول شئ‌گرایی به ویژه OCP و LSP و استفاده عملی از آن‌ها
 
 ## نیازمندی‌ها
-آشنایی اولیه با مفاهیم برنامه نویسی و طراحی شی‌گرا که دانشجویان قبلاً در درس برنامه‌سازی پیشرفته با آن آشنا شده‌اند.
+- آشنایی اولیه با مفاهیم برنامه نویسی و طراحی شی‌گرا که دانشجویان قبلاً در درس برنامه‌سازی پیشرفته با آن آشنا شده‌اند.
+- آزمایش‌های [git](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/instructions/git.md) و [SOLID](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/instructions/SOLID.md)
 
 ## ابزارهای مورد استفاده
 - یک Java IDE مانند IntelliJ IDEA و یا Eclipse به همراه jdk حداقل نسخه ۸ 
