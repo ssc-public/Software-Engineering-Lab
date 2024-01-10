@@ -18,7 +18,9 @@
 - [سایت آشنایی با معماری Microservice](https://microservices.io/)
 
 ## روال انجام آزمایش
-یک RESTful API را در نظر بگیرید که یک عملیات CRUD ساده را ارائه می‌دهد، از قابلیت load balancing پشتیبانی می‌کند و سرویس‌های backend آن یک پایگاه‌داده‌ی مشترک دارند. این سامانه را با معماری Microservice ایجاد و به وسیله‌ی Docker و Docker-Compose مستقر کنید.
+یک RESTful API را در نظر بگیرید که یک عملیات CRUD ساده را ارائه می‌دهد، از قابلیت load balancing پشتیبانی می‌کند و سرویس‌های backend آن یک پایگاه‌داده‌ی مشترک دارند. این سامانه را با معماری Microservice ایجاد و به وسیله‌ی Docker و Docker-Compose مستقر کنید. در زیر طرح کلی این سامانه را مشاهده می‌کنید:
+![image](https://github.com/ssc-public/Software-Engineering-Lab/assets/45389673/1011dfcf-941f-4fc0-835f-197ab7b6664b)
+
 
 علاوه بر آن به نکات زیر نیز توجه کنید:
 1. برای تمامی سرویس‌هایی که ایجاد کرده‌اید، Dockerfile تهیه کنید. می‌توانید از image های آماده نیز استفاده کنید.
