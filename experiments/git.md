@@ -34,7 +34,7 @@
 2. منظور از atomic بودن در atomic commit و atomic pull-request چیست؟
 3. تفاوت دستورهای fetch و pull و merge و rebase و cherry-pick را بیان کنید.
 4. تفاوت دستورهای reset و revert و restore را بیان کنید.
-5. منظور از stage چیست؟ دستور stash چه کاری را انجام می‌دهد؟
+5. منظور از stage یا همان index چیست؟ دستور stash چه کاری را انجام می‌دهد؟
 6. مفهوم snapshot به چه معناست؟ ارتباط آن با commit چیست؟
 
 ## نحوه ارسال پروژه:
