@@ -79,7 +79,7 @@
 <p>افزودن تابع ارسال پیام تلگرامی</p>
 </td>
 <td width="292">
-<p>افزودن یک تابع void با عنوان phone Order Payment</p>
+<p>افزودن یک تابع void با عنوان sendTelegramMessage</p>
 </td>
 </tr>
 
