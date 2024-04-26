@@ -16,7 +16,7 @@
 ## منابع آموزشی
 - [آشنایی با Profiling](https://aparat.com/v/9NdSe) 
 - [مثالی از Profiling](https://aparat.com/v/2mWbs)
-- [پروژه‌ی ProfilingTest](https://github.com/ssc-public/Software-Engineering-Lab/tree/main/resources/projects/ProfilingTest)
+- [پروژه‌ی ProfilingTest](https://github.com/ssc-public/Software-Engineering-Lab/tree/main/base-projects/ProfilingTest)
 
 ## روال انجام آزمایش
 نرم‌افزار YourKit Java Profiler یک نرم‌افزار تجاری است که برای سیستم‌ عامل‌های مختلفی از جمله ویندوز، مک، لینوکس و سولاریس قابل استفاده است. با مراجعه به [این آدرس](https://www.yourkit.com/java/profiler/download) می‌توانید بسته به نوع سیستم عامل خود، نسخه مناسب را دانلود کرده و در مدت ۱۵روز مجوز استفاده رایگان آن را دریافت نمایید. بعد از اتمام این دوره لازم است لایسنس آن را بر حسب نیاز خریداری کنید. البته نسخه‌های قدیمی‌تر آن به صورت کرک شده از سایت‌های ایرانی (مانند [یاس دانلود](http://dl.downloadly.ir/Files/Software/YourKit_Java_Profiler_12.0.2_Downloadly.ir.rar)) نیز قابل دریافت است.
