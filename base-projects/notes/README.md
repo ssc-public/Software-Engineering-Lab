@@ -42,7 +42,7 @@ python manage.py createsuperuser
 ## Important end-points
 ```
 users/login/ --> login a user
-users/me/ --> get information of a user
+users/me/ --> get information of logged-in user
 users/create/ --> create a user
 users/<id>/delete/ --> delete a user
 notes/ --> list all notes of current user
