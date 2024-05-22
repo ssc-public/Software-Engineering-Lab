@@ -17,13 +17,15 @@
 - [سایت refactoring.guru](https://refactoring.guru)
 - [سایت sourcemaking.com](https://sourcemaking.com/)
 - [پروژه MiniJava](https://github.com/ssc-public/Software-Engineering-Lab/tree/main/resources/projects/MiniJava)
+- [پروژه پر از بوی بد!](https://github.com/bigsheykh/Convert_UML_to_ANSI_C)
 
 ## روال انجام آزمایش
 در این آزمایش قرار است تا هفت مورد بازآرایی بر روی این پروژه انجام دهید:
 - دو مورد اعمال الگوی [Facade](https://refactoring.guru/design-patterns/facade)
 - یک مورد [State/Strategy](https://refactoring.guru/replace-type-code-with-state-strategy) یا [استفاده از Polymorphism به جای شرط](https://refactoring.guru/replace-conditional-with-polymorphism) 
 - یک مورد [Separate Query From Modifier](https://refactoring.guru/separate-query-from-modifier)
-- سه مورد مختلف از سایر بازآرایی‌ها مانند [Self Encapsulated Field](https://refactoring.guru/self-encapsulate-field) و ... (غیر از بازآرایی‌های مطرح‌شده در موارد بالا)
+- یک مورد [Self Encapsulated Field](https://refactoring.guru/self-encapsulate-field).
+- دو مورد مختلف غیر از بازآرایی‌های مطرح‌شده در موارد بالا.
     - در [اینجا](https://refactoring.guru/refactoring/techniques) می‌توانید لیستی از تمام بازآرایی‌های موجود را ببینید.
     - بازآرایی‌های خیلی ساده مانند تغییر نام متغیرها، تغییر نوع خصیصه‌های یک کلاس (برای مثال از private به final) یا پاک‌کردن کدهای کامنت‌شده، حساب نیست.
 
@@ -43,6 +45,8 @@
     - این بوی بد در کدام یک از دسته‌بندی‌های پنج‌گانه قرار می‌گیرد؟
     - برای برطرف‌کردن این بو، استفاده از کدام بازآرایی‌ها پیشنهاد می‌شود؟
     - در چه مواقعی باید این بو را نادیده گرفت؟
+4. در وبسایت 29 بوی بد کد نامبرده شده است. سعی کنید 10 بوی بد را در [پروژه تبدیل کننده به سی](https://github.com/bigsheykh/Convert_UML_to_ANSI_C) پیدا کنید و به آن اشاره کنید.
+   
 
 ## نحوه ارسال آزمایش
 آدرس مخزن پروژه خود را ارسال کنید. توجه کنید که مخزن شما عمومی (public) باشد.
