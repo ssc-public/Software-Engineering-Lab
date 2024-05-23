@@ -42,7 +42,7 @@
 
 
  ### چگونگی کار با برد در ‌Github
-- [فیلم آموزشی](https://www.aparat.com/v/jinm0ri)
+- [فیلم آموزشی](https://www.aparat.com/v/geo02j6)
 
 ### توصیه‌ها
 - برای هر آزمایش، ابتدا یک جلسه‌ی sprint planning انجام دهید.
