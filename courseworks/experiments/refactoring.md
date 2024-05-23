@@ -24,7 +24,7 @@
 
 ## منابع مفید
 - [جلسه بیست و پنجم از درس الگوها در مهندسی نرم‌افزار](https://ocw.sharif.edu/course/443/session/id/9739)
-- [جلسه بیست و ششم از درس الگوها در مهندسی نرم‌افزار](https://ocw.sharif.edu/course/443/session/id/9740
+- [جلسه بیست و ششم از درس الگوها در مهندسی نرم‌افزار](https://ocw.sharif.edu/course/443/session/id/9740)
 - [جلسه بیست و هفتم از درس الگوها در مهندسی نرم‌افزار](https://ocw.sharif.edu/course/443/session/id/9741)
 - [جلسه بیست و هشتم از درس الگوها در مهندسی نرم‌افزار](https://ocw.sharif.edu/course/443/session/id/9742)
 
