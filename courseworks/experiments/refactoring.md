@@ -11,13 +11,22 @@
 ## ابزارهای مورد استفاده
 یک Java IDE مانند IntelliJ IDEA و یا Eclipse به همراه jdk حداقل نسخه ۸
 
-## منابع آموزشی
-- [فیلم آموزشی](https://aparat.com/v/0r5yH)
-- سایت [getcodeflow.com](https://getcodeflow.com) یا [codeac.io](https://www.codeac.io/)
+## منابع آموزشی و کوییز
 - [سایت refactoring.guru](https://refactoring.guru)
+- [جلسه بیست و چهارم از درس الگوها در مهندسی نرم‌افزار](https://ocw.sharif.edu/course/443/session/id/9738)
+
+## منابع آزمایش
+- [فیلم آموزشی](https://aparat.com/v/0r5yH)
 - [سایت sourcemaking.com](https://sourcemaking.com/)
 - [پروژه MiniJava](https://github.com/ssc-public/Software-Engineering-Lab/tree/main/resources/projects/MiniJava)
 - [پروژه پر از بوی بد!](https://github.com/bigsheykh/Convert_UML_to_ANSI_C)
+- سایت [getcodeflow.com](https://getcodeflow.com) یا [codeac.io](https://www.codeac.io/)
+
+## منابع مفید
+- [جلسه بیست و پنجم از درس الگوها در مهندسی نرم‌افزار](https://ocw.sharif.edu/course/443/session/id/9739)
+- [جلسه بیست و ششم از درس الگوها در مهندسی نرم‌افزار](https://ocw.sharif.edu/course/443/session/id/9740
+- [جلسه بیست و هفتم از درس الگوها در مهندسی نرم‌افزار](https://ocw.sharif.edu/course/443/session/id/9741)
+- [جلسه بیست و هشتم از درس الگوها در مهندسی نرم‌افزار](https://ocw.sharif.edu/course/443/session/id/9742)
 
 ## روال انجام آزمایش
 در این آزمایش قرار است تا هفت مورد بازآرایی بر روی این پروژه انجام دهید:
