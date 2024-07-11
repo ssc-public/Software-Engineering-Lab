@@ -34,7 +34,7 @@
 - حداقل دو conflict را در فرآیند پیاده‌سازی برطرف کنید. این conflict ها می‌تواند در یک شاخه یا هنگام ادغام دو شاخه رخ دهد.
 - با اعمال محدودیت در مخزن خود در Github، شاخه‌ی main پروژه را محافظت کنید؛ به صورتی که تنها از طریق pull request امکان ادغام شاخه‌ای دیگر با شاخه‌ی main را داشته باشید.
 - ‌ضروری است شاخه‌ها را به درستی با شاخه‌ی main و یا دیگر شاخه‌های مرتبط ادغام (merge) کنید. این کار را از طریق pull request انجام دهید.
-- برای استقرار مستمر با کمک Github Actions، می‌توانید از [workflow های آماده](https://github.com/ssc-public/Software-Engineering-Lab/actions/new) استفاده کنید.
+- برای استقرار مستمر می‌توانید از Github Actions و [workflow های آماده](https://github.com/ssc-public/Software-Engineering-Lab/actions/new) استفاده کنید.
 - گزارشی از جزئیات پیاده‌سازی مراحل فوق را با فرمت markdown در فایل README پروژه بنویسید.
 
 ## پرسش‌ها
