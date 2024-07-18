@@ -19,7 +19,7 @@
 
 ## منابع آموزشی
 - [ویدئو آشنایی با TDD](https://piped.video/watch?v=3m1Xtj8rKDg&list=PLnEg28Nx10WERRUmbl_hf7Y7rqacWWeNq&index=2)
-- [اسلاید آشنایی با TDD](https://github.com/ssc-public/Software-Engineering-Lab/raw/main/resources/TDD/An-Introduction-To-TDD.pptx)
+- [اسلاید آشنایی با TDD](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/educational-resources/TDD/An-Introduction-To-TDD.pptx)
 - [راه‌اندازی JUnit در پروژه](https://www.jetbrains.com/help/idea/junit.html)
 - [الگوی Arrange-Act-Assert برای سامان‌دهی ساختار یک Unit Test](https://java-design-patterns.com/patterns/arrange-act-assert/)
 - [مدل شایستگی مهندسی نرم‌افزار در حوزه‌ی آزمون](https://docs.google.com/spreadsheets/d/1MeBzWbmPpv4FWnpn1GmzHOLP8Sl4F2d11Zb_rYz9HVo/edit?usp=sharing)
