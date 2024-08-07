@@ -3,6 +3,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
+import MiniJava.errorHandler.ErrorHandler;
 import MiniJava.parser.Parser;
 
 
@@ -13,7 +14,7 @@ public class Main {
             // start parsing
             parser.startParse(new Scanner(new File("src/main/resources/code")));
         } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            ErrorHandler.printError(e.getMessage());
         }
     }
 }
