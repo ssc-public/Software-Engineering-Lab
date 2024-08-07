@@ -10,7 +10,7 @@
 ## نیازمندی‌ها
 - حداقل یک نفر از اعضای هر گروه باید دارای یک حساب کاربری در github باشد.
 - آشنایی اولیه با مفاهیم برنامه نویسی و طراحی شی‌گرا که دانشجویان قبلاً در درس برنامه‌سازی پیشرفته با آن آشنا شده‌اند.
-- آزمایش‌های [git](https://github.com/ssc-public/Software-Engineering-Lab/tree/main/instructions/git.md) و [SOLID](https://github.com/ssc-public/Software-Engineering-Lab/tree/main/instructions/SOLID.md) و [TDD](https://github.com/ssc-public/Software-Engineering-Lab/tree/main/instructions/TDD-and-coverage.md)
+- آزمایش‌های [git](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/courseworks/experiments/git.md) و [SOLID](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/courseworks/experiments/SOLID.md) و [TDD](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/courseworks/experiments/TDD-and-coverage.md)
 
 ## ابزارهای مورد استفاده
 یک Java IDE مانند IntelliJ IDEA و یا Eclipse به همراه jdk حداقل نسخه ۸
