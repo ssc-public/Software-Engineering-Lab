@@ -1,6 +1,6 @@
-package parser;
+package MiniJava.parser;
 
-import scanner.token.Token;
+import MiniJava.scanner.token.Token;
 
 import java.util.ArrayList;
 

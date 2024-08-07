@@ -1,6 +1,7 @@
-package parser;
+package MiniJava.parser;
 
-import scanner.token.Token;
+import MiniJava.errorHandler.ErrorHandler;
+import MiniJava.scanner.token.Token;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -27,7 +28,7 @@ public class ParseTable {
                 try {
                     nonTerminals.put(i, NonTerminal.valueOf(temp));
                 } catch (Exception e) {
-                    temp = temp;
+                    ErrorHandler.printError(e.getMessage());
                 }
             } else {
                 terminals.put(i, new Token(Token.getTyepFormString(cols[i]), cols[i]));

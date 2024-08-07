@@ -1,4 +1,4 @@
-package parser;
+package MiniJava.parser;
 
 
 public enum NonTerminal {

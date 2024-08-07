@@ -1,4 +1,4 @@
-package Log;
+package MiniJava.Log;
 
 /**
  * Created by mohammad hosein on 6/29/2015.
@@ -6,6 +6,6 @@ package Log;
 
 public class Log {
     public static void print(String s) {
-//        System.out.println(s);
+       System.out.println(s);
     }
 }

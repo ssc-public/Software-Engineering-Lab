@@ -1,10 +1,10 @@
-package semantic.symbol;
+package MiniJava.semantic.symbol;
 
-import codeGenerator.Address;
-import codeGenerator.Memory;
-import codeGenerator.TypeAddress;
-import codeGenerator.varType;
-import errorHandler.ErrorHandler;
+import MiniJava.codeGenerator.Address;
+import MiniJava.codeGenerator.Memory;
+import MiniJava.codeGenerator.TypeAddress;
+import MiniJava.codeGenerator.varType;
+import MiniJava.errorHandler.ErrorHandler;
 
 import java.util.ArrayList;
 import java.util.HashMap;

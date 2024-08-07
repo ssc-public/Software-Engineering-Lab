@@ -1,4 +1,4 @@
-package parser;
+package MiniJava.parser;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -6,11 +6,11 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Stack;
 
-import Log.Log;
-import codeGenerator.CodeGenerator;
-import errorHandler.ErrorHandler;
-import scanner.lexicalAnalyzer;
-import scanner.token.Token;
+import MiniJava.Log.Log;
+import MiniJava.codeGenerator.CodeGenerator;
+import MiniJava.errorHandler.ErrorHandler;
+import MiniJava.scanner.lexicalAnalyzer;
+import MiniJava.scanner.token.Token;
 
 public class Parser {
     private ArrayList<Rule> rules;

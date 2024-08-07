@@ -1,8 +1,8 @@
-package scanner;
+package MiniJava.scanner;
 
-import errorHandler.ErrorHandler;
-import scanner.token.Token;
-import scanner.type.Type;
+import MiniJava.errorHandler.ErrorHandler;
+import MiniJava.scanner.token.Token;
+import MiniJava.scanner.type.Type;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

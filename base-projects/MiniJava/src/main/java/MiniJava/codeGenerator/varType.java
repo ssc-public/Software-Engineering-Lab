@@ -1,4 +1,4 @@
-package codeGenerator;
+package MiniJava.codeGenerator;
 
 /**
  * Created by mohammad hosein on 6/28/2015.

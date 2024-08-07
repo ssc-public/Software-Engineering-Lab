@@ -1,4 +1,4 @@
-package scanner.type;
+package MiniJava.scanner.type;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

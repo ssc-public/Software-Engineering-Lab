@@ -31,7 +31,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Main</mainClass>
+                            <mainClass>MiniJava.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

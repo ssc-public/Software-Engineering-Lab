@@ -1,6 +1,6 @@
-package scanner.token;
+package MiniJava.scanner.token;
 
-import scanner.type.Type;
+import MiniJava.scanner.type.Type;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

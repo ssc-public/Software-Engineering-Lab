@@ -1,4 +1,4 @@
-package errorHandler;
+package MiniJava.errorHandler;
 
 /**
  * Created by Alireza on 6/28/2015.

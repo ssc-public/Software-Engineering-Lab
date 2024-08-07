@@ -1,11 +1,11 @@
-package codeGenerator;
+package MiniJava.codeGenerator;
 
-import Log.Log;
-import errorHandler.ErrorHandler;
-import scanner.token.Token;
-import semantic.symbol.Symbol;
-import semantic.symbol.SymbolTable;
-import semantic.symbol.SymbolType;
+import MiniJava.Log.Log;
+import MiniJava.errorHandler.ErrorHandler;
+import MiniJava.scanner.token.Token;
+import MiniJava.semantic.symbol.Symbol;
+import MiniJava.semantic.symbol.SymbolTable;
+import MiniJava.semantic.symbol.SymbolType;
 
 import java.util.Stack;
 
