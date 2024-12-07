@@ -15,8 +15,8 @@
 - Cucumber
 ## منابع آموزشی
 - [فیلم آموزشی](https://aparat.com/v/JbrTx)
-- [مثالی از نحوه‌ی به‌کار‌گیری BDD](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/resources/BDD/BDD-example.md)
-- [کتاب BDD in Action برای مطالعه علاقه‌مندان](https://github.com/ssc-public/Software-Engineering-Lab/raw/main/resources/BDD/BDD%20in%20Action.pdf)
+- [مثالی از نحوه‌ی به‌کار‌گیری BDD](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/educational-resources/BDD/BDD-example.md)
+- [کتاب BDD in Action برای مطالعه علاقه‌مندان](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/educational-resources/BDD/BDD%20in%20Action.pdf)
 
 ## روال انجام آزمایش
 1. در منابع آموزشی مثالی از نحوه به‌کارگیری BDD در محیط IntelliJ وجود دارد. این مستند را به دقت مطالعه کنید و مراحل آن را به ‌صورت عملی انجام دهید. 
