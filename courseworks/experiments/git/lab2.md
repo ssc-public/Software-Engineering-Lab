@@ -24,8 +24,6 @@
    - وظیفه: ایجاد Feature Branches اولیه برای هر ماژول:
      - `feature/iot-sensors`
      - `feature/web-dashboard`
-     - `feature/mobile-app`
-     - `feature/firmware`
    - دستورالعمل‌ها:
      - با استفاده از دستورات Git این شاخه‌ها را ایجاد و به مخزن راه دور push کنید.
      - در README توضیح دهید که هر شاخه برای چه منظوری استفاده می‌شود.
