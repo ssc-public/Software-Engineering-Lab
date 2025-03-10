@@ -18,7 +18,7 @@
 - [قواعد نام‌گذاری commit](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
 - [قواعد نام‌گذاری branch](https://gist.github.com/karmenatwork/e0dbe33e1c553e1a998839737c8c799a)
 
-## روال انجام آزمایش
+## دستور آزمایش
 - [آزمایش اول](./lab1.md)
 - [آزمایش دوم](./lab2.md)
 
