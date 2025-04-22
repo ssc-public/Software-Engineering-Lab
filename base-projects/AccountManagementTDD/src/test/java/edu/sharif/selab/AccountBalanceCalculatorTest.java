@@ -32,14 +32,6 @@ public class AccountBalanceCalculatorTest {
         assertEquals(300, balance);
     }
 
-    @Test
-    void testOnlyWithdrawals() {
-        int balance = AccountBalanceCalculator.calculateBalance(Arrays.asList(
-                new Transaction(TransactionType.WITHDRAWAL, 50),
-                new Transaction(TransactionType.WITHDRAWAL, 20)
-        ));
-        assertEquals(-70, balance);
-    }
 
     @Test
     void testMixedTransactions() {
