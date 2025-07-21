@@ -20,11 +20,11 @@ PLK
 در بین کلاس‌های شما و در سطح سیستم می‌شود. برای آن که بتوانید این اصل را رعایت کنید، لازم است اصل DIP را نیز رعایت کنید.
 ### اصل Liskov Substitution Principle (LSP)
 این اصل بیان می‌کند که زیرکلاس های یک کلاس باید بتوانند به جای کلاس والدشان جایگزین شوند؛ این یعنی باید بتوان از قابلیت Polymorfism به درستی استفاده کرد و برای این منظور، بایستی کلاس‌های فرزند با کلاس والدشان رابطه is-a داشته باشد. جهت اطلاع بیشتر، به 
-[این مثال ساده](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/resources/SOLID/%D8%B9%D9%86%DA%A9%D8%A8%D9%88%D8%AA%20%D9%8A%DA%A9%20%D8%A7%D8%B3%D8%A8%20%D9%86%D9%8A%D8%B3%D8%AA.pdf)
+[این مثال ساده](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/educational-resources/SOLID/%D8%B9%D9%86%DA%A9%D8%A8%D9%88%D8%AA%20%D9%8A%DA%A9%20%D8%A7%D8%B3%D8%A8%20%D9%86%D9%8A%D8%B3%D8%AA.pdf)
 توجه کنید.
 ### اصل جداسازی واسط‌ها یا Interface segregation Principle (ISP)
 این اصل بیان می‌دارد که به جای آن که برای گروهی از زیرکلاس‌هایتان یک واسط بزرگ بسازید، از واسط‌های کوچک تر و منسجم تر استفاده کنید تا مجبور نشوید برای برخی از زیرکلاس‌ها، برخی از توابع را با بدنه خالی پیاده سازی کنید و دچار Refused Bequest نشوید. 
-[دیدن این مثال می‌تواند به درک بهتر این دو اصل کمک کند](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/resources/SOLID/%D8%B9%D9%86%DA%A9%D8%A8%D9%88%D8%AA%20%D9%8A%DA%A9%20%D8%A7%D8%B3%D8%A8%20%D9%86%D9%8A%D8%B3%D8%AA.pdf)
+[دیدن این مثال می‌تواند به درک بهتر این دو اصل کمک کند](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/educational-resources/SOLID/%D8%B9%D9%86%DA%A9%D8%A8%D9%88%D8%AA%20%D9%8A%DA%A9%20%D8%A7%D8%B3%D8%A8%20%D9%86%D9%8A%D8%B3%D8%AA.pdf)
 
 ### اصل Dependency Inversion Principle یا DIP
 این اصل بیان می‌دارد که بهتر است وابستگی بین اجزای سیستم در سطح کلاس های انتزاعی و یا واسط ها باشد. در این صورت، تغییر در زیرکلاس‌ها باعث تغییر در بخش‌های دیگر سیستم نمی‌شود؛ در نتیجه بهتر است که زیرکلاس‌های Concreete را به صورت مستقیم به یک دیگر مرتبط نکنیم. با رعایت این اصل ، می‌توان به تحقق اصل OCP نیز کمک کرد.
@@ -39,6 +39,6 @@ PLK
 - [توضیحاتی در مورد Cohesion](https://pages.cpsc.ucalgary.ca/~eberly/Courses/CPSC333/Lectures/Design/cohesion.html)
   - یکی دیگر از ویژگی‌هایی که باید در برنامه شما برقرار باشد، همبند بودن توابع و رفتارهای داخل هر کلاس است. اصول SOLID به برقراری این وِیژگی کمک می‌کنند.
 - اصول شئ‌گرایی: [بخش ۱ (بیست دقیقه پایانی)](https://ocw.sharif.edu/course/385/session/id/8776) | [بخش ۲ (کل جلسه به‌غیر از GRASP)](https://ocw.sharif.edu/course/385/session/id/8777) | [بخش ۳ (نیم‌ساعت اول)](https://ocw.sharif.edu/course/385/session/id/8778)
-- [توضیح مثال اسب و عنکبوت](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/resources/SOLID/%D8%B9%D9%86%DA%A9%D8%A8%D9%88%D8%AA%20%D9%8A%DA%A9%20%D8%A7%D8%B3%D8%A8%20%D9%86%D9%8A%D8%B3%D8%AA.pdf)
+- [توضیح مثال اسب و عنکبوت](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/educational-resources/SOLID/%D8%B9%D9%86%DA%A9%D8%A8%D9%88%D8%AA%20%D9%8A%DA%A9%20%D8%A7%D8%B3%D8%A8%20%D9%86%D9%8A%D8%B3%D8%AA.pdf)
 
 
