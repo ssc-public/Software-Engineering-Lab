@@ -34,9 +34,9 @@ PLK
 
 - [بیان سریع اصول SOLID](https://aparat.com/v/NUPoJ)
   - توصیه می‌کنیم که حتما یادگیری اصول SOLID را با این فیلم شروع کنید و با منابع بعدی به آن عمق دهید.
-- [توضیحاتی در مورد Coupling](https://pages.cpsc.ucalgary.ca/~eberly/Courses/CPSC333/Lectures/Design/cohesion.html)
+- [توضیحاتی در مورد Coupling](https://web.archive.org/web/20240515000518/https://pages.cpsc.ucalgary.ca/~eberly/Courses/CPSC333/Lectures/Design/coupling.html)
   - یکی از چالش‌هایی که در برنامه نویسی با آن مواجه می‌شوید، آن است که با یک تغییر کوچک در کد مجبور به انجام تغییرات متعدد در جای جای آن هستید. به چنین وابستگی‌ای در بین اجزای برنامه که منجر به بروز تغییرات منتشر شونده می‌شود، Coupling گفته می‌شود. هدف از به کارگیری اصول شئ‌گرایی، کاهش Coupling است.
-- [توضیحاتی در مورد Cohesion](https://pages.cpsc.ucalgary.ca/~eberly/Courses/CPSC333/Lectures/Design/cohesion.html)
+- [توضیحاتی در مورد Cohesion](https://web.archive.org/web/20240514234505/https://pages.cpsc.ucalgary.ca/~eberly/Courses/CPSC333/Lectures/Design/cohesion.html)
   - یکی دیگر از ویژگی‌هایی که باید در برنامه شما برقرار باشد، همبند بودن توابع و رفتارهای داخل هر کلاس است. اصول SOLID به برقراری این وِیژگی کمک می‌کنند.
 - اصول شئ‌گرایی: [بخش ۱ (بیست دقیقه پایانی)](https://ocw.sharif.edu/course/385/session/id/8776) | [بخش ۲ (کل جلسه به‌غیر از GRASP)](https://ocw.sharif.edu/course/385/session/id/8777) | [بخش ۳ (نیم‌ساعت اول)](https://ocw.sharif.edu/course/385/session/id/8778)
 - [توضیح مثال اسب و عنکبوت](https://github.com/ssc-public/Software-Engineering-Lab/blob/main/resources/SOLID/%D8%B9%D9%86%DA%A9%D8%A8%D9%88%D8%AA%20%D9%8A%DA%A9%20%D8%A7%D8%B3%D8%A8%20%D9%86%D9%8A%D8%B3%D8%AA.pdf)
